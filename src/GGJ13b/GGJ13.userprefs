@@ -1,0 +1,43 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Levels\Level2.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Credits.cs" Line="59" Column="9" />
+      <File FileName="Assets\Scripts\FollowCamera.cs" Line="20" Column="57" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="30" Column="28" />
+      <File FileName="Assets\Scripts\Story.cs" Line="68" Column="5" />
+      <File FileName="Assets\Scripts\Levels\Level.cs" Line="136" Column="49" />
+      <File FileName="Assets\Scripts\Levels\Level1.cs" Line="13" Column="19" />
+      <File FileName="Assets\Scripts\FirstLevelFade.cs" Line="41" Column="21" />
+      <File FileName="Assets\Scripts\Text.cs" Line="43" Column="63" />
+      <File FileName="Assets\Scripts\Levels\LevelFromFile1.cs" Line="221" Column="3" />
+      <File FileName="Assets\Scripts\AudioIntro.cs" Line="15" Column="3" />
+      <File FileName="Assets\Scripts\Entities\AudioWall.cs" Line="40" Column="21" />
+      <File FileName="Assets\Scripts\Entities\EmptyBridge.cs" Line="13" Column="21" />
+      <File FileName="Assets\Scripts\Levels\Level2.cs" Line="65" Column="3" />
+      <File FileName="Assets\Scripts\Levels\Level22.cs" Line="6" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Levels" expanded="True">
+                  <Node name="Level2.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
